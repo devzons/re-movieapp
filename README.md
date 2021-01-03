@@ -31,3 +31,5 @@ it will upload automatically
 
 - Site
   `http://devzons.github.io/<app-name>/`
+
+- more detail: `https://pages.github.com/`
